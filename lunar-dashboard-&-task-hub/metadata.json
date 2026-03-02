@@ -1,0 +1,5 @@
+{
+  "name": "Lunar Dashboard & Task Hub",
+  "description": "A personal dashboard featuring real-time Chinese Lunar Calendar insights powered by Gemini Search and a dynamic project management interface.",
+  "requestFramePermissions": []
+}
